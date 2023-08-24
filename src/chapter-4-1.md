@@ -1,5 +1,3 @@
-Personalized Learning Paths using AI
-=================================================================================================
 
 Learning new skills is an essential aspect of personal transformation and change. In recent years, artificial intelligence (AI) has been increasingly used to streamline learning and skill development. In this chapter, we will explore how AI can help individuals enhance their learning and skill development through personalized learning paths using AI.
 

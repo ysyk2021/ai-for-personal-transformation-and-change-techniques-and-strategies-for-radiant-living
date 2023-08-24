@@ -1,5 +1,3 @@
-Automated Health Tracking and Analysis using AI
-=================================================================================================
 
 Maintaining good health and wellness is essential for personal transformation and change. However, it can be challenging to track and analyze various health metrics consistently. In recent years, artificial intelligence (AI) has been increasingly used to streamline health tracking and analysis. In this chapter, we will explore how AI can help improve health and wellness by automating health tracking and analysis.
 

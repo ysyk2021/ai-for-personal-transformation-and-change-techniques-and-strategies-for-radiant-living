@@ -1,5 +1,3 @@
-Chapter 6: Managing Finances with AI
-====================================
 
 Managing finances is an essential aspect of personal transformation and change. In recent years, artificial intelligence (AI) has been increasingly used to streamline financial planning and management. In this chapter, we will explore how AI can help individuals manage their finances more effectively.
 

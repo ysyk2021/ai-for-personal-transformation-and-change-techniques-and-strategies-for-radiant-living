@@ -1,5 +1,3 @@
-AI-Driven Fitness and Nutrition Planning
-==========================================================================================
 
 Maintaining good health and wellness is essential for personal transformation and change. In recent years, artificial intelligence (AI) has been increasingly used to streamline fitness and nutrition planning. In this chapter, we will explore how AI can help improve health and wellness by creating personalized fitness and nutrition plans.
 
