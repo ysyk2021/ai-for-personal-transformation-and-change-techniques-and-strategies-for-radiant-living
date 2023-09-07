@@ -10,3 +10,7 @@ We will also look at some of the most innovative and successful implementations 
 Ultimately, this book aims to provide readers with a comprehensive understanding of how AI can be used to enhance personal transformation and change, and how individuals can harness the power of technology to achieve their goals and live more radiant lives.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
