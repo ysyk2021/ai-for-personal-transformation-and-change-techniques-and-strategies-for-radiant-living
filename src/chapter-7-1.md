@@ -1,5 +1,4 @@
-Chapter 10: Importance of Ethical and Legal Guidelines for AI
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical significance of ethical and legal guidelines in the realm of AI. As AI technologies become increasingly integrated into various aspects of our lives, it is crucial to establish clear frameworks that ensure responsible and ethical development, deployment, and use of AI systems. Let's delve into the importance of ethical and legal guidelines for AI.
 

@@ -1,5 +1,4 @@
-Chapter 8: AI-Driven Fitness and Nutrition Planning
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting realm of AI-driven fitness and nutrition planning. With the integration of artificial intelligence technologies into our daily lives, we can leverage its capabilities to optimize our fitness routines and make informed decisions about our nutrition. Let's delve into the potential and benefits of AI-driven fitness and nutrition planning.
 

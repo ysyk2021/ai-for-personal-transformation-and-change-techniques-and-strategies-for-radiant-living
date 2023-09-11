@@ -1,5 +1,4 @@
-Chapter 7: Personalized Learning Paths Using AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative power of personalized learning paths enabled by AI in personal transformation and change. With the integration of AI technologies, individuals can access tailored educational experiences that adapt to their unique needs, preferences, and goals. Through personalized learning paths, AI empowers individuals to acquire knowledge, develop skills, and embark on a journey of continuous growth and self-improvement. Let's delve into the world of personalized learning paths using AI.
 

@@ -1,5 +1,4 @@
-Chapter 8: Selecting the Right Tools for Your Personal Needs
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of selecting the right AI tools to support personal transformation and change. With a wide range of AI technologies available, it is crucial to understand one's individual needs, goals, and preferences when choosing the most suitable tools. Let's delve into the process of selecting the right AI tools for your personal journey.
 

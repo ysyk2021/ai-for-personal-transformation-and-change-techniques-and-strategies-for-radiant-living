@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Language Learning and Translation
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative capabilities of AI in language learning and translation. With the integration of AI technologies, individuals can leverage advanced algorithms, natural language processing, and machine learning to enhance their language skills, communicate effectively across cultures, and embrace the power of multilingualism. Let's delve into the world of AI-powered language learning and translation.
 

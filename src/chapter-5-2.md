@@ -1,5 +1,4 @@
-Chapter: Automated Health Tracking and Analysis Using AI
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the powerful capabilities of Artificial Intelligence (AI) in automating health tracking and analysis for personal transformation and radiant living. AI technology has revolutionized various industries, and healthcare is no exception. With the integration of AI into health monitoring devices and applications, individuals can now track and analyze their health data more efficiently and gain valuable insights to facilitate positive changes in their lives.
 
